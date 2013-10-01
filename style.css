@@ -36,7 +36,7 @@
 }
 
 .bgimg1 {
-	background:url(images/small-black-stripe.gif);
+	
 
 	
 	/*
@@ -50,7 +50,7 @@
 
 .bgimg2 {
 	
-	background: url(images/storm2.jpg) no-repeat -200px 0;
+	background: url(images/small-black-stripe.gif) repeat -200px 0;
 	/*
 	background:url('images/storm2.jpg') no-repeat;
 	background-repeat:repeat;
